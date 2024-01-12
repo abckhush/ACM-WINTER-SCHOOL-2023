@@ -17,7 +17,7 @@ The repository is organized into the following sections:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/acm-winter-school-2023.git
+   git clone https://github.com/abckhush/acm-winter-school-2023.git
    cd acm-winter-school-2023
 2. Explore the Hands-On Sessions and Assignments folders to access the materials and code used during the winter school.
 
